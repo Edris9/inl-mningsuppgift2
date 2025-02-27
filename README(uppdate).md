@@ -2,6 +2,10 @@
 
 # Vad jag har implementerat:
 
+# TODOLIST:
+- började med version ett bara för att fatta själva konceptet 
+    byggde murar och försökte att röra på spelaren @ med wasd 
+    för att version 1 är själva sturkturen eller byggnaden. 
 
 
 
@@ -38,6 +42,5 @@
 - Q/X: Avsluta spelet
 
 ## Avancerade idéer
-- Implementera direkta tangenttryckningar utan Enter (med msvcrt, tty+termios eller curses)
 - Lägg till fler fiender och föremålstyper
 - Skapa nivåsystem och svårighetsgrader
