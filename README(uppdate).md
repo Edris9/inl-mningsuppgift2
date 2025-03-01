@@ -1,4 +1,8 @@
 # version tre 
+pushade i denna länk:
+https://github.com/Edris9/inl-mningsuppgift2
+
+# Filar ligger i main 
 
 # Vad jag har implementerat:
 
