@@ -46,5 +46,4 @@ https://github.com/Edris9/inl-mningsuppgift2
 - Q/X: Avsluta spelet
 
 ## Avancerade idéer
-- Lägg till fler fiender och föremålstyper
-- Skapa nivåsystem och svårighetsgrader
+- Lagt till fler fiender och föremålstyper
